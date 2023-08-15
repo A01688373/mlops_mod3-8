@@ -14,3 +14,7 @@ This deliverable must cover the following points:
 
 The folder is "api" in: 
 https://github.com/A01688373/mlops_mod3_itesm/blob/main/README.md
+
+Install requirements.txt:
+
+pip install -r requirements.txt
