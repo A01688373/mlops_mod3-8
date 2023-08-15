@@ -1,2 +1,13 @@
-# mlops_mod3-8
-This is a mlops_mod3 deliverable 8 repo 
+# Deliverable: REST API
+
+Instructor: Carlos Mejia
+Student: Gabriela Sánchez
+
+The best way to serve up an ML model for use by outsiders, without exposing all of the source code, is through a REST API.
+
+This deliverable must cover the following points:
+1. Creation of folder for api
+2. Endpoints for:
+   - Train a new model
+   - Predict a new value
+3. Validation of input data with exception handling using FastAPI
