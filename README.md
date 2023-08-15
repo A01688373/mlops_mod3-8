@@ -1,7 +1,7 @@
 # Deliverable: REST API
 
-## Instructor: Carlos Mejia
-## Student: Gabriela Sánchez
+### Instructor: Carlos Mejia
+### Student: Gabriela Sánchez
 
 The best way to serve up an ML model for use by outsiders, without exposing all of the source code, is through a REST API.
 
