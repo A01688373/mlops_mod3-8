@@ -11,3 +11,6 @@ This deliverable must cover the following points:
    - Train a new model
    - Predict a new value
 3. Validation of input data with exception handling using FastAPI
+
+The folder is "api" in: 
+https://github.com/A01688373/mlops_mod3_itesm/blob/main/README.md
