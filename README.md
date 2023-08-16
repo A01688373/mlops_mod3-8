@@ -15,6 +15,21 @@ This deliverable must cover the following points:
 The folder is "api" in: 
 https://github.com/A01688373/mlops_mod3_itesm/blob/main/README.md
 
-Install requirements.txt:
+- Install requirements.txt:
 
 pip install -r requirements.txt
+
+- Run FastAPI
+
+Change to the [api](.) directory
+Run next command to start calculator api locally
+
+    ```bash
+    uvicorn api.main:app --reload
+    ```
+
+- Checking endpoints
+
+1. Access "http://127.0.0.1:8000/", you will see a message like this "Stroke classifier is all ready to go!"
+
+example: "server.png"
