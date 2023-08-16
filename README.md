@@ -33,3 +33,9 @@ Run next command to start calculator api locally
 1. Access "http://127.0.0.1:8000/", you will see a message like this "Stroke classifier is all ready to go!"
 
 example: "server.png"
+
+2. Access "http://127.0.0.1:8000/docs", the browser will display something like this:
+
+example: "FastAPI.png"    
+
+3. Try running the sum endpoint by writing the values --
